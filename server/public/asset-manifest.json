@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.735e37c4.css",
+    "main.js": "/static/js/main.bea0b145.js",
+    "static/media/reporte2.jpg": "/static/media/reporte2.be1bad577774492d815a.jpg",
+    "static/media/reporte1.jpg": "/static/media/reporte1.c3a585e34a9ff196d6aa.jpg",
+    "static/media/cuentasporpagar.jpg": "/static/media/cuentasporpagar.fc4e00ba602ed5414003.jpg",
+    "static/media/pago-proveedores.jpg": "/static/media/pago-proveedores.cef8a63f40185725daea.jpg",
+    "static/media/logo_cxp.png": "/static/media/logo_cxp.536f968f37c7c21642ca.png",
+    "static/media/logo.svg": "/static/media/logo.79a0409a96304f9c16014525f2e4b697.svg",
+    "index.html": "/index.html",
+    "main.735e37c4.css.map": "/static/css/main.735e37c4.css.map",
+    "main.bea0b145.js.map": "/static/js/main.bea0b145.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.735e37c4.css",
+    "static/js/main.bea0b145.js"
+  ]
+}
